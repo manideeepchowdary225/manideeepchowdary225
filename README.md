@@ -10,7 +10,7 @@ I'm a data enthusiast with a passion for exploring the hidden insights in data. 
 
 - 💞 I'm open to collaborations on data-related projects. Whether it's working on data analysis, machine learning, or data visualization, I'm always up for a good data-driven challenge.
 
-- 📫  
+- 📫 You can reach me on my [LinkedIn] [https://www.linkedin.com/in/mani-deep-8676b6184/], to connect and discuss all things data science
 
 <!---
 manideeepchowdary225/manideeepchowdary225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

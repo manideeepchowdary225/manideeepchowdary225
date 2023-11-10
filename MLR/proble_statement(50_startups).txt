@@ -1,0 +1,67 @@
+Prepare a prediction model for profit of 50_startups data.
+Do transformations for getting better predictions of profit and
+make a table containing R^2 value for each prepared model.
+
+R&D Spend -- Research and devolop spend in the past few years
+Administration -- spend on administration in the past few years
+Marketing Spend -- spend on Marketing in the past few years
+State -- states from which data is collected
+Profit  -- profit of each state in the past few years
+
+==> R&D Spend -- Research and devolop spend in the past few years original data and predicted data.
+==> R&d sales = mean square error = 85120931.33 
+==> R&d sales = Root mean squar eerror  =  9226.1
+
+
+
+
+==> Administration -- spend on administration in the past few years
+==>  Administration = mean square error =1527955397.74
+==> Administration = Root mean square error = 39089.07
+
+
+
+
+
+
+==> Marketing Spend -- spend on Marketing in the past few years Mean
+==> squared error 701870011.2
+==>  Root Mean squared error 26492.83
+
+
+
+==> State -- states from which data is collected
+==> Mean squared error 701870011.2
+==>  Root Mean squared error 26492.83
+
+
+==> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
